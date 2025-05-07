@@ -1,0 +1,16 @@
+{
+  "name": "sanusx-signaling-server",
+  "version": "0.1.0",
+  "description": "Modern signaling server for SanusX video conferencing plugin",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^4.0.0"
+  },
+  "author": "Manus AI Agent",
+  "license": "ISC"
+}
